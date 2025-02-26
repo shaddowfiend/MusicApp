@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="add_song_button">Add Song</string>
+    <string name="friends_button">Friends</string>
+    <string name="save_song_button">Save Song</string>
+    <string name="add_friend_button">Add Friend</string>
+    <string name="friend_username_hint">Friend\'s Username</string>
+</resources>

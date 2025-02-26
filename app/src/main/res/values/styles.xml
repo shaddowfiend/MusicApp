@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema principală a aplicației -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personalizați tema aici -->
+        <item name="colorPrimary">#FF4081</item> <!-- Rosa -->
+        <item name="colorPrimaryDark">#FF1976D2</item> <!-- Albastru mai întunecat -->
+        <item name="colorAccent">#FFC107</item> <!-- Portocaliu -->
+        <item name="windowNoTitle">true</item> <!-- Ascunde titlul implicit -->
+        <item name="windowActionBar">false</item> <!-- Dezactivează bara de acțiuni implicită -->
+    </style>
+
+    <!-- O altă temă opțională -->
+    <style name="FullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item> <!-- Aplicația va fi în mod fullscreen -->
+    </style>
+</resources>
